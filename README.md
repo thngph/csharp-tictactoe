@@ -3,7 +3,7 @@
 A Tic-Tac-Toe game to get a basic understanding of network programming (socket programming).
 
 - Team size: 4
-- Tech stack: C# Winform, MSSQL database
+- Tech stack: C# Windows Forms, MSSQL database
 
 
 ### Main features:
